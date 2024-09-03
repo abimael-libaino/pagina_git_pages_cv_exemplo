@@ -37,7 +37,7 @@ nav {
 
 }
 body{
-    background-image: url(/imagens/backgroung.jpeg);
+    background-image: url(imagens/backgroung.jpeg);
 }
 img {
     max-width: 250px;
